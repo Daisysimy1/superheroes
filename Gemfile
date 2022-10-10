@@ -17,6 +17,9 @@ gem 'active_model_serializers', '~> 0.10.13'
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
+# used to easily generate fake data: names, addresses, phone numbers, etc.
+gem 'faker', '~> 2.23'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
